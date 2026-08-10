@@ -1,0 +1,72 @@
+,latitud,longitud,comentario,lugar,foto
+1,-33.112862,-64.306023,Domo doble lente,,domo_ingreso_reu.jpeg
+2,-33.11251408,-64.30590168,,1 - 4 y 13 - 16,reu.dptos.1-4.jpeg
+3,-33.11250302,-64.30597118,,5 - 8 y 9 - 12,reu.dptos.5-8.jpeg
+4,-33.11253618,-64.3056228,,29 - 32 y 17 - 20,reu.dptos.29-32.jpeg
+5,-33.11252881,-64.30555594,,25 - 28 y 21 - 24,reu.dptos.25-28.jpeg
+6,-33.11247649,-64.30508439,,37 - 40 y 41 - 44,reu.dptos.37-40.jpeg
+7,-33.1124647,-64.30498937,,45 - 48 y 33 - 36,reu.dptos.45-48.jpeg
+8,-33.1125030517578,-64.3047180175781,,49 - 52 y 61 - 64,reu.dptos.49-52.jpeg
+9,-33.1125335693359,-64.3046188354492,,53 - 56 y 57 - 60,reu.dptos.53-56.jpeg
+10,-33.1123199462891,-64.3044815063477,domo,,camara.png
+11,-33.1132164001465,-64.3047103881836,,101 - 104 y 97 - 100,camara.png
+12,-33.1131820678711,-64.3048553466797,,93 - 96 y 89 - 92,camara.png
+13,-33.1131935119629,-64.3051376342773,,,camara.png
+14,-33.1134185791016,-64.3054656982422,domo,,camara.png
+15,-33.1131210327148,-64.3055725097656,,85 - 88 y 81 - 84,camara.png
+16,-33.1131210327148,-64.3056335449219,,65 - 68 y 69 - 72,camara.png
+17,-33.1131134033203,-64.3059310913086,,77 - 80 y 73 - 76,camara.png
+18,-33.1131248474121,-64.306022644043,,"Biologia molecular +3,30",camara.png
+19,-33.1116752624512,-64.2990646362305,,Facultad de Ingenieria,camara.png
+20,-33.1116027832031,-64.2999572753906,,"Fac. Economicas y Humanas +3,30",camara.png
+21,-33.1116905212402,-64.299934387207,,"Ingenieria -3,30",camara.png
+22,-33.1116027832031,-64.3000640869141,,"Matematicas -3,30",camara.png
+23,-33.1116485595703,-64.3001251220703,,Estacionamiento ingenieria,camara.png
+24,-33.1111831665039,-64.2997894287109,domo,Plaza San Martin,camara.png
+25,-33.1099281311035,-64.301025390625,domo,Biblioteca,camara.png
+26,-33.1095848083496,-64.3005523681641,,ingreso,camara.png
+,-33.11107265,-64.30138886,domo,,camara.png
+,-33.10820856,-64.30496141,domo,Pabellon 5 exterior,camara.png
+,-33.1083466,-64.30505081,,Pabellon 5 interior (planta baja),camara.png
+,-33.10823272,-64.30535857,,Pabellon 5 interior (planta baja),camara.png
+,-33.1082486,-64.30520119,,"Pabellon 5 interior (planta baja, ascensor)",camara.png
+,-33.10831347,-64.30537093,,Pabellon 5 interior (planta alta),camara.png
+,-33.10826378,-64.30503557,,Pabellon 5 interior (planta alta),camara.png
+,-33.10704075,-64.29819328,domo,Candocex,camara.png
+,-33.11683695,-64.30112169,domo,Cancha de jockey,camara.png
+,-33.11662439,-64.30030595,domo,Quincho pileta,camara.png
+,-33.11342145,-64.30013127,domo,Gimnasio mayor exterior,camara.png
+,-33.11354292,-64.30000768,domo,Gimnasio mayor interior,camara.png
+,-33.11352842,-64.30029689,domo,Gimnasio mayor interior,camara.png
+,-33.11424204,-64.30214507,domo,Ingreso al Vivero,camara.png
+,-33.11437524,-64.30226454,domo,Cocina PEAM,camara.png
+,-33.11429967,-64.30233293,domo,Bosque de robles,camara.png
+,-33.10859852,-64.30436115,,guardia principal,camara.png
+,-33.10863994,-64.30449133,,guardia principal (estacionamiento),camara.png
+,-33.10962552,-64.30047858,,Puesto 1,camara.png
+,-33.11031639,-64.29936786,,Comedor,camara.png
+,-33.11024876,-64.29946838,,Comedor,camara.png
+,-33.11027567,-64.29967191,,Comedor,camara.png
+,-33.1102384,-64.29975101,,Comedor,camara.png
+,-33.10998649,-64.3023663,,Rectorado,camara.png
+,-33.10994784,-64.30232675,,Rectorado,camara.png
+,-33.10987192,-64.30228061,,Rectorado,camara.png
+,-33.10978081,-64.30223117,,Rectorado,camara.png
+,-33.11098069,-64.30118184,,Jardin,camara.png
+,-33.11093099,-64.30091034,,Jardin,camara.png
+,-33.11082643,-64.30102158,,Jardin,camara.png
+,-33.11087199,-64.30138165,,Jardin,camara.png
+,-33.11063111,-64.30126877,,Jardin,camara.png
+,-33.11067736,-64.30135446,,Jardin,camara.png
+,-33.1111591,-64.29926816,,Bedelia Pabellon 2,camara.png
+,-33.11110526,-64.2992319,,Pabellon 2,camara.png
+,-33.11087889,-64.29920224,,Pabellon 2,camara.png
+,-33.11062076,-64.2989946,,Pabellon 2,camara.png
+,-33.11103763,-64.29921213,,Pabellon 2,camara.png
+,-33.11105143,-64.29939999,,Pabellon 2,camara.png
+,-33.11105557,-64.29993228,,Pabellon 3,camara.png
+,-33.11062904,-64.29986472,,Pabellon 3,camara.png
+,-33.11113149,-64.29642215,,REU docentes,camara.png
+,-33.11082505,-64.29703024,,REU docentes,camara.png
+,-33.11363816,-64.29884464,domo,Herreria,camara.png
+,-33.11309156,-64.29837662,domo,Planta Piloto,camara.png
